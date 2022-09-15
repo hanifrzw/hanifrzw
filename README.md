@@ -1,7 +1,7 @@
 # Hi there, I'm Hanif - aka [hanifrzw](https://www.linkedin.com/in/hanifrzw/) 👋
 ## About me:
-- 🔭 I’m currently studying at [Sepuluh Nopember Institute of Technology](https://www.linkedin.com/school/its-campus/)
-- 🌱 I’m currently learning Python as Data Analyst Student at ZENIUS
+- ⚡ I’m currently studying at [Sepuluh Nopember Institute of Technology](https://www.linkedin.com/school/its-campus/)
+- 📙 I’m currently learning Python as Data Analyst Student at ZENIUS
 - 💬 Ask me about anything
 - 📫 How to reach me: hanifrwibowo0804@gmail.com
 
